@@ -1,0 +1,271 @@
+parameter = data set coming from total population
+statistic = data set derived from sample set of population
+
+sampling frame = list of individuals from which a sample is selected from
+
+simple random sampling (SRS): a population subset selected in a way that every sample size of 'n' form the population has an equal chance of being selected
+
+Strata: distinct subgroups
+
+Stratified sampling = separate population into distinct groups and then select simple random sampling from each strata
+
+Systematic sampling: take a sample on every specific instance
+
+kth = every so many
+    every 3rd or every 5th member of a population
+
+cannot do systematic sampling when things are already in a pattern, but can when the population sample is ordered random
+
+problems with cluster sampling: sometimes the people located in the cluster are all similar in a way that makes the problem hard to study because of other outside factors
+
+Cluster sampling: sample based on geography. Biased toward the type off people living in the area.
+
+Convenience sampling: using data or result that are readily available. There is bias in every group. often miss important subpopulations. severely biased results.
+
+Multi-Stage sampling: combination of sampling strategies layered in strategies
+    1. cluster sample of states
+    2. simple random sample of counties
+    3. stratified sample of school
+    4. stratified sample of classrooms
+
+-----
+---------
+
+Basic Guidelines for Planning a Statistical Hypothesis:
+
+--Hypothesis & Variables:
+1. State a Hypothesis
+2. Identify the individuals of interest
+3. Specify the variables to measure
+
+--Sampling, Ethics, & Data Collection
+4. Determine if you will use the entire population or a sample
+    - if you choose a sample, choose a sampling method
+5. Address ethical concerns before data collection (IRB board)
+6. Collect the data
+
+--Analysis & Reporting
+7. Use descriptive or inferential statistics to answer your Hypothesis
+8. Note any concerns about your data collection or analysis
+    - Make reccs for future studies (in science, usually peer reviewed literature report)
+
+Experiment vs Observational study:
+
+Experiment: a treatment or intervention is deliberately assigned to the individuals. Purpose is to see the possible effects of the treatment on measured variables
+
+Observational: observations of individuals are taken, but no treatment or intervention occurs.
+
+Non-response and voluntary response: if many people refuse your survey the people who complete it are likely to have a biased opinion. There may be a reason to not complete the survey probably has to do with the topic
+
+Truthfulness of response: respondents may lie on purpose.
+    - if asked too personal questions
+    - if asked too difficult a question
+    - may accidentally lie (recall bias)
+
+Hidden Bias:
+    - question wording may induce a certain response
+    - order of questions
+    - scales of (1-5) may not always represent accurate responses
+
+Interviewer Influence:
+    - interviewer has verbal and non-verbal Influences
+    - best to have same population as research participant
+
+Vague Wording:
+    - avoid vague terms in a survey
+        - instead of a long time, use number or a specific timeframe (10 minutes)
+    - sometimes are stuck using vague terms
+        - use grounding language (definition) so people are led in the same direction with thought before answering
+
+Lurking Variable:
+    - lurk means to sneak around
+    - a variable that is associated with a condition, but may not cause the condition
+    - more education typically means higher income, but not always
+
+------
+----------
+
+Topics in Randomization:
+
+Reasons to randomize:
+    - to assign individuals to treatment subgroups
+    - helps prevent bias in selecting members for each group
+        - distributes 'lurking variables' evenly
+
+Placebo Effect:
+    - when these is no real treatment, but participant assumes they're receiving treatment and responds favorably
+    - placebo is given to a control group
+    - used as control or comparison group
+    - 'Attention Controls' fake experiments where you can't tell if it is real or not
+
+Blocked randomization:
+    - sometimes concerned about lurking variables being disproportionate, so you evenly distribute groups into two blocks or people (gender blocks)
+
+Blinding:
+    - where a person is not told of a treatment assignment in a study so they're not biased in reporting information for study
+    - Double-Blind: means that both the participant and the staff do not know the treatment assignment
+
+------
+----------
+
+Frequency Histogram & Distribution:
+
+Frequency Histogram:
+    - A specific type of bar chart
+    - helps identify the distribution of the data
+
+Relative Frequency: The proportion of the relative example size for each class
+
+Steps to Draw a Frequency Histogram:
+    1. Make a frequency table
+    2. Draw a vertical line for the y-axis (frequency of ___)
+    3. Draw a horizontal line for the x-axis (class/group labels)
+
+Distributions:
+    - A line shape made around the histogram bars
+
+Types of Distribution:
+    Normal: mound shape and symmetrical (more in the middle)
+    Uniform: Mostly straight across line
+    Skewed Left: Light on the left (higher on the right)
+    Skewed Right: Light on the right (higher on the left)
+    Bimodal: mode (meaning high point), similar to normal, 2 mound peaks with a really large space
+
+Outliers:
+    - Data points that are further out than the main part of data.
+
+Cumulative Frequency:
+    - You add on the previous frequency to the next one so they are also higher than the previous
+
+------
+----------
+
+Time Series, Bar & Pie Graphs:
+
+Time Series:
+    -Made of measurements for the same variable for the same individual taken at intervals over a period of time
+    - Need time series data, one measurement per time series
+    - Good for measuring trends over time
+
+Bar Graph:
+    - horizontal of vertical
+    - uniform spacing
+    - frequency histograms are bar graphs that
+        - must have a quantitative variable on x-axis
+        - must have a freq or rel freq on the y-axis
+    - clustered bar graph: multiple bars per each section
+    - hash marks or squiggle to see the data
+    - pareto chart: shows the freq of things and sorts based off of freq, with a line that adds all of them together over the course of the bars
+
+Pie Chart/Circle Graph:
+    - used to count things that are mutually exclusive
+    - yes or no
+    - 0, 1-2, 3-4, 5
+    - % and/or the frequency
+
+------
+----------
+
+Measures of Central Tendency: Mode, median, mean
+
+Central Tendency
+    - can only be about quantitative Data
+
+Mode
+    - Number that happens the most common
+    - possible to have no Mode
+    - possible to have more than one Mode
+
+Median
+    - middle of the data
+    - halfway in the middle
+    - Median for 2 numbers you find the average
+
+Sigma (Σ): "Sum of ___"
+    - Σx is pronounced 'sum of x'
+    - Σ is used a lot in stats
+
+Mean (Average): Σx/n
+    - Σx = sum of x
+    - n = number of values in your data
+    - after summing up all of the x's you divide by n
+
+    x-bar (x̄):
+        - sample statistic
+        - use lowercase n
+        - x̄ = Σx/n
+    mu (μ):
+        - mean coming from a population
+        - use uppercase N for population size
+        - μ = Σx/N
+
+Weighted Average:
+    - Have different things count more or less on mean
+    - multiply each subgroup by the percentage of its weight
+    - 4.0*0.2 + 3.0*0.3 + 3.5*0.5 = 3.45
+
+Central Tendency & Skewed Distributions:
+    - Normal Distribution: mean, median, mode all appx the same
+    - Skewed Distribution: are not the same, slightly different
+        - mode (lowest), Median, Mean (highest) -> right skewed
+
+------
+----------
+
+Measures of Variation:
+
+Range:
+    - difference between the max and min
+    - range is not very useful
+
+Variance & Standard Deviation:
+    Variance: How much data can vary
+        - how well does the mean represent the spread of data
+    Standard Deviation: How much the data deviates around the mean
+
+Sample Variance: squared
+    - s^2 = (Σ(x-x̄)^2)/(n-1)
+
+Sample Standard Deviation: square root
+    - s = √((Σ(x-x̄)^2)/(n-1))
+
+Sum of Squares: top part
+    - find x's
+    - find x̄ (sum of x's divided by number)
+    - x - x̄ =
+    - square the numbers
+    - sum all squares up
+
+Variance Formula: bottom part
+    - number of x's - 1
+    - sum of squares / n-1
+
+Standard Deviation Formula (σ):
+    - get square root of answer
+
+Coefficient of Variation (CV):
+    - shows how much the data varies compared to the mean
+    - always a %
+    - Sample CV = s/x̄ * 100
+    - Population CV = σ/μ * 100
+
+Chebyshev's Theorem:
+ - 1 - (1/k^2)
+ - gives minimum amount of proportion which is in a standard deviation of a mean
+ - gives a range of answers, not exact answer
+ - empirical formula
+    - 1 SD is 68%
+    - 2 SD is 95%
+    - 3 SD is 99.7%
+ - k cannot equal 1 so, start with 2 SD's
+    - 1-(1/2^2) = 1-(1/4) = 3/4 = 0.75
+    - therefore at least 75% of the data lies between 2 SD's of the mean
+    - 2 SD is 75% (minimum)
+    - 3 SD is 88.9% (minimum)
+    - 4 SD is 93.75% (minimum)
+    - actual number can be higher
+- k = (x-μ)/σ   (x minus the mean, divided by standard deviation.)
+    - x=μ+k*σ
+
+------
+----------
